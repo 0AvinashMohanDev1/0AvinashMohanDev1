@@ -1,5 +1,36 @@
-### Hi there 👋
+### Ram Ram Ji 👋
+<div align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>
 
+
+<h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
+<h3 align="center">A Full Stack Developer is in making.</h3>
+<hr>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="VAIBHAV" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/itz__vaibhzz3.0/" target="_open"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="vaibhzz101 height="30" width="40" /></a>
+    <a href="https://twitter.com/vaibhav_shevne" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="vaibhav" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="vaibhzz" height="30" width="40" /></a>
+    <a href="https://medium.com/@vashevne" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@vaibhzz101" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@vaibhavshevne" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="Vaibhav Shevne height="30" width="40" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
+        alt="vaibhav" />
+</p>
+</br>
 
 # 💫 About Me:
 🔭 I’m currently working on shining my backend skills<br>👯 I’m looking to collaborate on a Backend project<br>🌱 I’m currently learning at Masai School<br>💬 Ask me about anything<br>⚡ Fun fact: I love to play chess and cricket.
