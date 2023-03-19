@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
+<h1 align="center">Hello 👋, I'm AINASH MOHAN DEV</h1>
 <h3 align="center">A Full Stack Developer is in making.</h3>
 <hr>
 <p align="center">
