@@ -17,7 +17,7 @@
     <a href="https://twitter.com/vaibhav_shevne" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="vaibhav" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
+    <a href="https://www.facebook.com/profile.php?id=100006588390912" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="vaibhzz" height="30" width="40" /></a>
     <a href="https://medium.com/@vashevne" target="blank"><img align="center"
