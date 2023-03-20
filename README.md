@@ -16,17 +16,14 @@
             alt="vaibhzz101 height="30" width="40" /></a>
     <a href="https://twitter.com/AvinashMohanDe2" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="vaibhav" height="30" width="40" /></a>
+            alt="Avinash Mohan Dev" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100006588390912" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="vaibhzz" height="30" width="40" /></a>
+            alt="Avinash Mohan Dev" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@avinashmohandev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="Vaibhav Shevne height="30" width="40" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-        alt="vaibhav" />
-</p>
+            alt="Avinash Mohan Dev height="30" width="40" /></a>
+    <a href="https://0avinashmohandev1.github.io/" > Portfolio</a>
 </br>
 
 # 💫 About Me:
