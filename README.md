@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello 👋, I'm AVINASH MOHAN DEV</h1>
-<h3 align="center">A Full Stack Developer is in making.</h3>
+<h3 align="center">"Equipped with a math and computer degree, civil engineering diploma, and a Gen-AI interest, I'm ready to thrive in tech. My passion for growth drives me.</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/avinash-mohan-dev-873ba1249/" target="_blank"><img align="center"
